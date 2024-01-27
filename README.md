@@ -13,12 +13,12 @@
 
 ### 메인페이지
 <div align="center">
-  <img src="https://github.com/jmsyaya/Movie-Information/assets/63501931/606372d5-4693-4671-9d15-21adf2bb19f9" width="450" />
+  <img src="https://github.com/jmsyaya/Movie-Information/assets/63501931/606372d5-4693-4671-9d15-21adf2bb19f9" width="500" />
 </div>
 
 ### 순위페이지
 <div align="center">
-  <img src="https://github.com/jmsyaya/Movie-Information/assets/63501931/6c5a7434-91e3-47de-a9cb-3ef2a212d19a" width="450" />
+  <img src="https://github.com/jmsyaya/Movie-Information/assets/63501931/6c5a7434-91e3-47de-a9cb-3ef2a212d19a" width="500" />
 </div>
 
 1. 영화 순위 가져오기 버튼 클릭
