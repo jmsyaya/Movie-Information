@@ -12,5 +12,5 @@
 
 ### 메인페이지
 <div align="center">
-  <img src="" width="400" />
+  <img src="https://github.com/jmsyaya/Movie-Information/assets/63501931/606372d5-4693-4671-9d15-21adf2bb19f9" width="400" />
 </div>
